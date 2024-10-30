@@ -1,0 +1,12 @@
+C:\InvestmentControlPlatform\InvestmentControlPlatform.DataAccess\bin\Debug\net6.0\InvestmentControlPlatform.DataAccess.deps.json
+C:\InvestmentControlPlatform\InvestmentControlPlatform.DataAccess\bin\Debug\net6.0\InvestmentControlPlatform.DataAccess.dll
+C:\InvestmentControlPlatform\InvestmentControlPlatform.DataAccess\bin\Debug\net6.0\InvestmentControlPlatform.DataAccess.pdb
+C:\InvestmentControlPlatform\InvestmentControlPlatform.DataAccess\obj\Debug\net6.0\InvestmentControlPlatform.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\InvestmentControlPlatform\InvestmentControlPlatform.DataAccess\obj\Debug\net6.0\InvestmentControlPlatform.DataAccess.AssemblyInfoInputs.cache
+C:\InvestmentControlPlatform\InvestmentControlPlatform.DataAccess\obj\Debug\net6.0\InvestmentControlPlatform.DataAccess.AssemblyInfo.cs
+C:\InvestmentControlPlatform\InvestmentControlPlatform.DataAccess\obj\Debug\net6.0\InvestmentControlPlatform.DataAccess.csproj.CoreCompileInputs.cache
+C:\InvestmentControlPlatform\InvestmentControlPlatform.DataAccess\obj\Debug\net6.0\InvestmentControlPlatform.DataAccess.sourcelink.json
+C:\InvestmentControlPlatform\InvestmentControlPlatform.DataAccess\obj\Debug\net6.0\InvestmentControlPlatform.DataAccess.dll
+C:\InvestmentControlPlatform\InvestmentControlPlatform.DataAccess\obj\Debug\net6.0\refint\InvestmentControlPlatform.DataAccess.dll
+C:\InvestmentControlPlatform\InvestmentControlPlatform.DataAccess\obj\Debug\net6.0\InvestmentControlPlatform.DataAccess.pdb
+C:\InvestmentControlPlatform\InvestmentControlPlatform.DataAccess\obj\Debug\net6.0\ref\InvestmentControlPlatform.DataAccess.dll

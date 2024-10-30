@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>InvestmentControlPlatform.DataAccess</id>
+    <version>1.0.0</version>
+    <authors>InvestmentControlPlatform.DataAccess</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="a6a23efe0082679ea14417f3c9c797c77b542703" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.AspNetCore.Mvc.NewtonsoftJson" version="8.0.7" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.SpaServices.Extensions" version="8.0.7" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="8.0.7" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.InMemory" version="8.0.7" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="8.0.7" exclude="Build,Analyzers" />
+        <dependency id="MySql.Data" version="9.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\InvestmentControlPlatform\InvestmentControlPlatform.DataAccess\bin\Debug\net8.0\InvestmentControlPlatform.DataAccess.runtimeconfig.json" target="lib\net8.0\InvestmentControlPlatform.DataAccess.runtimeconfig.json" />
+    <file src="C:\InvestmentControlPlatform\InvestmentControlPlatform.DataAccess\bin\Debug\net8.0\InvestmentControlPlatform.DataAccess.dll" target="lib\net8.0\InvestmentControlPlatform.DataAccess.dll" />
+  </files>
+</package>
