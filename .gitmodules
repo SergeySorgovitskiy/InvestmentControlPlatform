@@ -1,0 +1,3 @@
+[submodule "InvestmentControlPlatform.Client"]
+	path = InvestmentControlPlatform.Client
+	url = https://github.com/vladpikapov/InvestmentControlPlatform.Client.git

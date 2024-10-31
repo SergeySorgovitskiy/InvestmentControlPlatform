@@ -4,11 +4,12 @@ import { RouterOutlet } from '@angular/router';
 import { Observable } from 'rxjs';
 import { Asset } from '../models/asset.model';
 import { AsyncPipe, CommonModule } from '@angular/common';
+import { UserComponent } from "./user/user.component";
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet, HttpClientModule, AsyncPipe, CommonModule],
+  imports: [RouterOutlet, HttpClientModule, AsyncPipe, CommonModule, UserComponent],
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })

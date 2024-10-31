@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\InvestmentControlPlatform\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E39A862D-9F15-47C4-A834-493A33F2DFFD}|InvestmentControlPlatform.DataAccess\\InvestmentControlPlatform.DataAccess.csproj|c:\\investmentcontrolplatform\\investmentcontrolplatform.dataaccess\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E39A862D-9F15-47C4-A834-493A33F2DFFD}|InvestmentControlPlatform.DataAccess\\InvestmentControlPlatform.DataAccess.csproj|solutionrelative:investmentcontrolplatform.dataaccess\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E39A862D-9F15-47C4-A834-493A33F2DFFD}|InvestmentControlPlatform.DataAccess\\InvestmentControlPlatform.DataAccess.csproj|c:\\investmentcontrolplatform\\investmentcontrolplatform.dataaccess\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E39A862D-9F15-47C4-A834-493A33F2DFFD}|InvestmentControlPlatform.DataAccess\\InvestmentControlPlatform.DataAccess.csproj|solutionrelative:investmentcontrolplatform.dataaccess\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E39A862D-9F15-47C4-A834-493A33F2DFFD}|InvestmentControlPlatform.DataAccess\\InvestmentControlPlatform.DataAccess.csproj|c:\\investmentcontrolplatform\\investmentcontrolplatform.dataaccess\\models\\assetsprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E39A862D-9F15-47C4-A834-493A33F2DFFD}|InvestmentControlPlatform.DataAccess\\InvestmentControlPlatform.DataAccess.csproj|solutionrelative:investmentcontrolplatform.dataaccess\\models\\assetsprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6ED27697-07C6-460E-A641-9D901563208B}|InvestmentControlPlatform\\InvestmentControlPlatform.csproj|c:\\investmentcontrolplatform\\investmentcontrolplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6ED27697-07C6-460E-A641-9D901563208B}|InvestmentControlPlatform\\InvestmentControlPlatform.csproj|solutionrelative:investmentcontrolplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,12 +39,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Portfolio.cs",
+              "DocumentMoniker": "C:\\InvestmentControlPlatform\\InvestmentControlPlatform.DataAccess\\Models\\Portfolio.cs",
+              "RelativeDocumentMoniker": "InvestmentControlPlatform.DataAccess\\Models\\Portfolio.cs",
+              "ToolTip": "C:\\InvestmentControlPlatform\\InvestmentControlPlatform.DataAccess\\Models\\Portfolio.cs",
+              "RelativeToolTip": "InvestmentControlPlatform.DataAccess\\Models\\Portfolio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:25:31.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "News.cs",
+              "DocumentMoniker": "C:\\InvestmentControlPlatform\\InvestmentControlPlatform.DataAccess\\Models\\News.cs",
+              "RelativeDocumentMoniker": "InvestmentControlPlatform.DataAccess\\Models\\News.cs",
+              "ToolTip": "C:\\InvestmentControlPlatform\\InvestmentControlPlatform.DataAccess\\Models\\News.cs",
+              "RelativeToolTip": "InvestmentControlPlatform.DataAccess\\Models\\News.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:25:30.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssetsPrice.cs",
+              "DocumentMoniker": "C:\\InvestmentControlPlatform\\InvestmentControlPlatform.DataAccess\\Models\\AssetsPrice.cs",
+              "RelativeDocumentMoniker": "InvestmentControlPlatform.DataAccess\\Models\\AssetsPrice.cs",
+              "ToolTip": "C:\\InvestmentControlPlatform\\InvestmentControlPlatform.DataAccess\\Models\\AssetsPrice.cs",
+              "RelativeToolTip": "InvestmentControlPlatform.DataAccess\\Models\\AssetsPrice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:25:28.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\InvestmentControlPlatform\\InvestmentControlPlatform\\Program.cs",
               "RelativeDocumentMoniker": "InvestmentControlPlatform\\Program.cs",
               "ToolTip": "C:\\InvestmentControlPlatform\\InvestmentControlPlatform\\Program.cs",
               "RelativeToolTip": "InvestmentControlPlatform\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACcAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T07:30:06.31Z",
               "EditorCaption": ""

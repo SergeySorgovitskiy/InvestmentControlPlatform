@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InvestmentControlPlatform")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ad538f34b6aaefc5e84790845126093dd95f32b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97860a9b11365b9dcab650efa885ee146740ea8a")]
 [assembly: System.Reflection.AssemblyProductAttribute("InvestmentControlPlatform")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InvestmentControlPlatform")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
